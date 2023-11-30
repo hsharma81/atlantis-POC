@@ -17,3 +17,5 @@ resource "aws_instance" "my-ec2-vm" {
     "Name" = "MY-EC2vm"
   }
 }
+
+
